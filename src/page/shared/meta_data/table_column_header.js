@@ -1,0 +1,1 @@
+export const category_header_list=[{field:"id",lable:"ID"},{field:"category",lable:"Category"},{field:"createdBy",lable:"Created By"},{field:"updatedBy",lable:"Updated By"},{field:"status",lable:"Status"},{field:"order",lable:"Sorting Order"},{field:"action",lable:"Action"}]
